@@ -24,4 +24,4 @@ sudo apt install ubuntu-desktop^
 sudo reboot
 ```
 
-By executing these commands, you'll successfully integrate a graphical interface into your Ubuntu server environment, enhancing its usability and accessibility.
+We have successfully integrated a graphical interface into our Ubuntu server environment, enhancing its usability and accessibility.
