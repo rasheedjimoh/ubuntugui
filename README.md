@@ -24,4 +24,6 @@ sudo apt install ubuntu-desktop^
 sudo reboot
 ```
 
-We have successfully integrated a graphical interface into our Ubuntu server environment, enhancing its usability and accessibility.
+We have successfully integrated a graphical interface into our Ubuntu server environment, enhancing its usability and accessibility. 
+
+# Congratulations!!!
